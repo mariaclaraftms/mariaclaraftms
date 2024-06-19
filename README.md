@@ -8,4 +8,6 @@ Meu nome é Maria Clara
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
   
-### Para entrar em contato comigo 📫
+### Para entrar em contato comigo 📫  
+
+mariaclara.ap.f.c@gmail.com
